@@ -111,7 +111,7 @@ npm run build
 
 ## Password Admin
 
-Password untuk menghapus file: **ktaeyvne**
+Password untuk menghapus file: 
 
 ---
 
